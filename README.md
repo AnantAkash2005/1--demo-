@@ -6,9 +6,6 @@ GitHub: AnantAkash2005
 -->
 <section id="banner"><img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/601dc5b9-fe00-4167-9b5f-526079b22749" />
 
-  <img src="banner.jpg" alt="Portfolio Banner" style="width:100%; border-radius:12px;">
-</section>
-
 <h1 align="center">🔷 Anant — Techno · Code · Create</h1>
 
 <p align="center">
