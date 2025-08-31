@@ -4,6 +4,9 @@ Customized for Anant
 Repo: Portfolio
 GitHub: AnantAkash2005
 -->
+<section id="banner">
+  <img src="banner.jpg" alt="Portfolio Banner" style="width:100%; border-radius:12px;">
+</section>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnantAkash2005/Portfolio/main/banner.png" alt="Techno Dark Banner" width="100%" />
