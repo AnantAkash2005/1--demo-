@@ -65,13 +65,13 @@ This is a clear, viewer-friendly progression block to show how you started and w
 
 ## 🎯 Current Goals
 
-* Build a polished portfolio and secure internships in **game design, graphic design, and game development**.
-* Build skills that enable a **remote, high-income career** with time for gaming, travel and family.
-* Learn and apply **cloud computing / cybersecurity** fundamentals to increase employability.
-* Create a **YouTube channel** once the recording setup is ready and publish content consistently.
-* Learn **taxation basics** for India and begin safe investing — long-term goal: reach **₹1 crore+** net worth.
-* Master **Adobe Premiere Pro** for YouTuber-style intros and motion content.
-* Build a full-body custom avatar (3D - Blender) for streams/content.
+- Build a solid foundation in **coding, game design, graphics, and video editing**.  
+- Create a professional **portfolio** showcasing college projects and beginner-level achievements.  
+- Focus on **game design, graphic design, and animation** as priority fields for internships.  
+- Maintain an active **GitHub profile** with coding projects, design uploads, and demos.  
+- Launch a **YouTube channel** blending gaming, tutorials, coding/design explainers, and project showcases.  
+- Explore **cybersecurity, crypto investing, and personality development** as side learnings for future growth.  
+- Work towards a long-term career path: **branded gaming company → remote opportunities → financial freedom**.  
 
 ---
 
